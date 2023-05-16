@@ -21,7 +21,7 @@ Ví dụ:
 
  TinyData là một tập dữ liệu được chúng tôi thu thập trên mạng internet. Cụ thể là thu thập tại nguồn: https://fptshop.com.vn/. Tập dữ liệu này chứa 1572 dòng dữ liệu về thông số và giá cả của laptop cũ, với file RawData khi thu thập có đến hơn 70 thuộc tính. Sau khi cân nhắc và để tối ưu hóa khi đưa vào mô hình học máy, File TidyData chỉ giữ lại 703 dòng dữ liệu và 28 thuộc tính. 
  
- Link bộ dữ liệu: https://drive.google.com/drive/u/4/folders/1hUA49DjfRywdjm4BxGTuzBplYv2Jciw3 ?fbclid=IwAR0KAQPtMdwlqzh30JbqABsgDIDlplTz4D2_O6LM0cscTEYPE4z8YU RsAvA
+ Link bộ dữ liệu: https://drive.google.com/drive/u/4/folders/1hUA49DjfRywdjm4BxGTuzBplYv2Jciw3?fbclid=IwAR0KAQPtMdwlqzh30JbqABsgDIDlplTz4D2_O6LM0cscTEYPE4z8YU RsAvA
 
 # 2.3 Khảo sát dữ liệu
 
